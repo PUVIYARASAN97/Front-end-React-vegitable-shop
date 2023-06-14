@@ -1,0 +1,39 @@
+.logo{
+    margin-left: 15px;
+}
+.nc{
+    background-color:rgb(233, 231, 231);
+}
+.drop{
+    border: none;
+    background-color:rgb(233, 231, 231);
+}
+.lh{
+    margin-left: 8px;
+}
+.nav{
+    display: flex;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+}
+.a{
+    margin-right: 25px;
+}
+.drop1{
+    border: none;
+    background-color: rgb(10, 212, 44);
+    color: white;
+    width: 250px;
+    height: 40px;
+}
+.search{
+   height: 30px;
+   width: 200px;
+}
+.search1{
+    
+    width: 250px;
+ }
